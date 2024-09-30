@@ -5,7 +5,7 @@
   } */
 .head,
 .left_arm,
-.torsol,
+.torso,
 .right_arm,
 .upperbody,
 .left_leg,
@@ -104,7 +104,7 @@
    transform: scale(1.1)
 }
 
-.torsol {
+.torso {
    width: 200px;
    height: 200px;
    border-radius: 0 0 50px 50px;
